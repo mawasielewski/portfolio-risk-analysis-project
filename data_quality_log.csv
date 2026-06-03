@@ -1,0 +1,11 @@
+Ticker,Sector,Missing Values,Std Dev,Status
+AAPL,Technology,0,41.85,Pass
+AGG,ETF,0,5.21,Pass
+BAC,Finance,0,6.64,Pass
+GS,Finance,0,94.28,Pass
+JPM,Finance,0,37.83,Pass
+KO,Consumer,0,7.37,Pass
+MSFT,Technology,0,81.06,Pass
+NVDA,Technology,0,38.22,Pass
+PG,Consumer,0,17.7,Pass
+SPY,ETF,0,80.37,Pass

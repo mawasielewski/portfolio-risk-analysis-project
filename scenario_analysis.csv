@@ -1,0 +1,5 @@
+Portfolio,Annualised Return (%),Annualised Volatility (%),Sharpe Ratio,Max Drawdown (%),Vol Reduction vs Baseline (%),Return Change vs Baseline (%),Meets Vol Target,Meets Return Target (>-5%)
+Baseline (Equal weight),19.4,18.83,1.03,-20.66,0.0,0.0,No,Yes
+Portfolio A (Low-vol),12.62,11.19,1.128,-15.0,40.6,-34.9,Yes,No
+Portfolio B (Max Sharpe),20.85,14.26,1.463,-11.78,24.3,7.5,Yes,Yes
+Portfolio C (Conservative),14.38,14.22,1.011,-18.56,24.5,-25.9,Yes,No
