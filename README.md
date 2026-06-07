@@ -2,7 +2,19 @@
 ## Project Brief
 This project simulates a real-world brief for a mid-size investment fund seeking to reduce portfolio volatility by 15% without sacrificing more than 5% of annual return. Taking the role of an aspiring business analyst, I applied the DMAIC methodology from my Lean Six Sigma Yellow Belt to structure the investigation. Starting with a portfolio of 10 assets across four sectors, I established baseline KPIs: annualised return, annualised volatility, Sharpe ratio, and maximum drawdown. The project goes on to identify root causes of excess volatility, model three alternative portfolio configurations, and recommend an optimised weight allocation that meets both targets.
 ## Methodology
-The DMAIC (Define, Measure, Analyse, Improve, Control) framework is a structured methodology used to investigate and resolve underperforming business processes through clearly defined stages. It aligns directly with this project's objective (reducing portfolio volatility by 15% without sacrificing more than 5% of annual return) by ensuring the problem is properly measured before conclusions are drawn, root causes are identified before solutions are proposed, and improvements are validated against defined targets before a recommendation is made.
+The DMAIC (Define, Measure, Analyse, Improve, Control) framework is a structured 
+methodology used to investigate and resolve underperforming business processes 
+through clearly defined stages. It aligns directly with this project's objective 
+(reducing portfolio volatility by 15% without sacrificing more than 5% of annual 
+return) by ensuring the problem is properly measured before conclusions are drawn, 
+root causes are identified before solutions are proposed, and improvements are 
+validated against defined targets before a recommendation is made.
+
+The BPMN diagram below maps the end-to-end process, including the two decision 
+gateways where the analysis loops back if root causes are insufficiently identified 
+or portfolio targets are not met.
+
+![BPMN Diagram](portfoliobpmn.drawio.png)
 ## DEFINE
 ### Problem Statement
 The current equal-weight portfolio of 10 assets is generating an annualised 
